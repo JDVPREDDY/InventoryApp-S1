@@ -16,7 +16,7 @@
 
         <!-- Label -->
         <TextView
-            android:text="Overview"
+            android:text="Product Overview"
             style="@style/CategoryStyle" />
 
         <!-- Input fields -->
@@ -78,7 +78,7 @@
 
         <!-- Label -->
         <TextView
-            android:text="Overview"
+            android:text="Supplier Info"
             style="@style/CategoryStyle" />
 
         <!-- Input fields -->
