@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Inventory App</string>
+    <string name="editor_activity_title_new_inventory">Add an inventory</string>
+</resources>
